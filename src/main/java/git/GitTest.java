@@ -8,6 +8,7 @@ public class GitTest {
 		
 		System.out.println("add new line by down");
 		System.out.println("add by SSH");
+		System.out.println("add by SSH 2");
 	}
 	
 }
